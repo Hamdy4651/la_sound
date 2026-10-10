@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
 import Lenis from 'lenis';
-
 import CursorGlow from '@/components/CursorGlow';
 import Hero from '@/components/Hero';
 import TrustedBy from '@/components/TrustedBy';
